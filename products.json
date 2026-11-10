@@ -1,0 +1,115 @@
+{
+    "Groceries": [
+        {
+            "name": "Aashirvaad Atta - 10kg",
+            "price": 380,
+            "description": "Whole wheat flour for making soft and fluffy rotis."
+        },
+        {
+            "name": "Tata Salt - 1kg",
+            "price": 25,
+            "description": "Iodized salt for your daily cooking needs."
+        },
+        {
+            "name": "Fortune Sunlite Refined Sunflower Oil - 5L",
+            "price": 750,
+            "description": "A light and healthy cooking oil for the entire family."
+        },
+        {
+            "name": "Daawat Basmati Rice - 5kg",
+            "price": 650,
+            "description": "Long-grain basmati rice for biryani and pulao."
+        },
+        {
+            "name": "Amul Gold Milk - 1L",
+            "price": 66,
+            "description": "Full cream milk for a rich and creamy taste."
+        }
+    ],
+    "Home & Kitchen": [
+        {
+            "name": "Prestige Pressure Cooker - 5L",
+            "price": 2500,
+            "description": "A durable and safe pressure cooker for fast cooking."
+        },
+        {
+            "name": "Pigeon Induction",
+            "price": 1600,
+            "description": "An energy-efficient induction for modern kitchens."
+        },
+        {
+            "name": "Cello Opalware Dinner Set - 20 Pieces",
+            "price": 1800,
+            "description": "A stylish and durable dinner set, perfect for a family of four."
+        }
+    ],
+    "Personal Care": [
+        {
+            "name": "Lifebuoy Soap - Pack of 4",
+            "price": 120,
+            "description": "Total 10 germ protection soap for the whole family."
+        },
+        {
+            "name": "Clinic Plus Shampoo - 650ml",
+            "price": 325,
+            "description": "A nourishing shampoo for long and strong hair."
+        },
+        {
+            "name": "Colgate MaxFresh Toothpaste - 150g",
+            "price": 95,
+            "description": "Get fresh breath and white teeth with this cooling toothpaste."
+        },
+        {
+            "name": "Santoor Sandalwood and Turmeric Soap",
+            "price": 40,
+            "description": "A soap with the goodness of sandalwood and turmeric for glowing skin."
+        },
+        {
+            "name": "Vatika Health Shampoo",
+            "price": 150,
+            "description": "A shampoo that promotes hair growth and a healthy scalp."
+        },
+        {
+            "name": "Meswak Toothpaste",
+            "price": 60,
+            "description": "A toothpaste with the goodness of Meswak for complete oral care."
+        }
+    ],
+    "Snacks": [
+        {
+            "name": "Britannia Good Day Cashew Cookies - 200g",
+            "price": 40,
+            "description": "Buttery cookies filled with the goodness of cashews."
+        },
+        {
+            "name": "Haldiram's Aloo Bhujia - 1kg",
+            "price": 240,
+            "description": "A crispy and spicy potato noodle snack."
+        },
+        {
+            "name": "Maggi 2-Minute Noodles - Pack of 12",
+            "price": 144,
+            "description": "Your favorite instant noodles for a quick and tasty meal."
+        },
+        {
+            "name": "Cadbury Dairy Milk Chocolate",
+            "price": 20,
+            "description": "The classic milk chocolate from Cadbury."
+        },
+        {
+            "name": "Pulse Candy",
+            "price": 1,
+            "description": "A tangy candy with a surprising masala-filled center."
+        },
+        {
+            "name": "Parle Melody Chocolaty Toffee",
+            "price": 1,
+            "description": "A toffee with a chocolaty surprise inside."
+        },
+        {
+            "name": "Parle-G Biscuits",
+            "price": 10,
+            "description": "The original gluco-biscuit from Parle."
+        }
+    ]
+}
